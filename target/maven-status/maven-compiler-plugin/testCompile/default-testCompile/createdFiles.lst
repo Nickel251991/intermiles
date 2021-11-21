@@ -1,0 +1,5 @@
+testcases\Tc02_SignIn.class
+page\Intermiles_homepage.class
+page\Signout.class
+testcases\Tc01_navigatetoHomepage.class
+page\SignUp.class
